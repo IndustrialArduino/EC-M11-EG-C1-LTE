@@ -21,5 +21,5 @@ IP67 Rated Enclosure
 7:   Blue:    RS-485B
 8:   Red:     RS-485A
 
-Datasheet:   https://drive.google.com/open?id=1rZFTHNjs8xeletx1LvtxdHQfNxlf9k7W&usp=drive_fs
-User Guide:  https://drive.google.com/open?id=1gouftLMsh1k1-VJ-YH-PrHhHymNFSSNc&usp=drive_fs
+Datasheet:   https://norvi.lk/docs/norvi-ec-m11-eg-c1-lte-datasheet/
+User Guide:  https://norvi.lk/docs/norvi-ec-m11-eg-c1-lte-user-guide/
